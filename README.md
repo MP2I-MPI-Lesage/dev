@@ -1,2 +1,2 @@
-#Trezik's Tale
-##A WIP top-down game in a fantasy world.
+# Trezik's Tale
+## A WIP fantasy game written in Rust with bevy.
